@@ -37,6 +37,17 @@
       "tags": ["tutorial", "onboarding", "coach-mark", "riverpod"]
     },
     {
+      "id": "flutter-security-kit",
+      "name": "Flutter Security Kit",
+      "description": "Production security toolkit for Flutter — SSL pinning, device integrity, deep link validation, rate limiting, suspicious activity tracking.",
+      "platform": "flutter",
+      "version": "0.1.0",
+      "repo": "https://github.com/SkyWalker2506/flutter_security_kit",
+      "install": "path",
+      "package": "flutter_security_kit",
+      "tags": ["security", "ssl-pinning", "jailbreak", "rate-limit", "deep-link"]
+    },
+    {
       "id": "flutter-notification-kit",
       "name": "Flutter Notification Kit",
       "description": "Smart local notifications for Flutter — word-of-the-day, streak reminders, learning-time detection, weekly summary.",
