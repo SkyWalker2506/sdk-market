@@ -37,6 +37,17 @@
       "tags": ["tutorial", "onboarding", "coach-mark", "riverpod"]
     },
     {
+      "id": "flutter-offline-sync",
+      "name": "Flutter Offline Sync",
+      "description": "Generic offline-first bidirectional sync for Flutter — local-wins conflict resolution, Firestore-agnostic abstract interfaces.",
+      "platform": "flutter",
+      "version": "0.1.0",
+      "repo": "https://github.com/SkyWalker2506/flutter_offline_sync",
+      "install": "path",
+      "package": "flutter_offline_sync",
+      "tags": ["offline", "sync", "firestore", "local-first"]
+    },
+    {
       "id": "flutter-import-export-kit",
       "name": "Flutter Import Export Kit",
       "description": "CSV and Anki TSV import/export for Flutter apps — auto-format detection, quoted-field CSV parser.",
