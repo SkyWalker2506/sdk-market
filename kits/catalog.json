@@ -1,0 +1,40 @@
+{
+  "name": "SDK Market",
+  "owner": "SkyWalker2506",
+  "version": "1.0.0",
+  "kits": [
+    {
+      "id": "flutter-feedback-kit",
+      "name": "Flutter Feedback Kit",
+      "description": "In-app user feedback for Flutter — form widget, voice input, offline queue, screenshot capture, pluggable backends.",
+      "platform": "flutter",
+      "version": "0.1.2",
+      "repo": "https://github.com/SkyWalker2506/flutter_feedback_kit",
+      "install": "pub.dev",
+      "package": "flutter_feedback_kit",
+      "tags": ["feedback", "widget", "offline", "firebase"]
+    },
+    {
+      "id": "flutter-quiz-kit",
+      "name": "Flutter Quiz Kit",
+      "description": "Quiz engine for Flutter — question generation, adaptive difficulty, sound feedback, STT matching.",
+      "platform": "flutter",
+      "version": "0.1.0",
+      "repo": "https://github.com/SkyWalker2506/flutter_quiz_kit",
+      "install": "pub.dev",
+      "package": "flutter_quiz_kit",
+      "tags": ["quiz", "education", "audio", "riverpod"]
+    },
+    {
+      "id": "flutter-tutorial-kit",
+      "name": "Flutter Tutorial Kit",
+      "description": "In-app step-by-step tutorial overlay for Flutter — coach mark walkthrough powered by Riverpod.",
+      "platform": "flutter",
+      "version": "0.1.0",
+      "repo": "https://github.com/SkyWalker2506/flutter_tutorial_kit",
+      "install": "pub.dev",
+      "package": "flutter_tutorial_kit",
+      "tags": ["tutorial", "onboarding", "coach-mark", "riverpod"]
+    }
+  ]
+}
