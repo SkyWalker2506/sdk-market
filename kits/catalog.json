@@ -37,6 +37,17 @@
       "tags": ["tutorial", "onboarding", "coach-mark", "riverpod"]
     },
     {
+      "id": "flutter-import-export-kit",
+      "name": "Flutter Import Export Kit",
+      "description": "CSV and Anki TSV import/export for Flutter apps — auto-format detection, quoted-field CSV parser.",
+      "platform": "flutter",
+      "version": "0.1.0",
+      "repo": "https://github.com/SkyWalker2506/flutter_import_export_kit",
+      "install": "path",
+      "package": "flutter_import_export_kit",
+      "tags": ["import", "export", "csv", "anki", "education"]
+    },
+    {
       "id": "flutter-gamification-system",
       "name": "Flutter Gamification System",
       "description": "Gamification engine for Flutter — XP, levels, streaks, badges, achievements, SRS rating.",
