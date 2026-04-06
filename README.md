@@ -1,4 +1,4 @@
-# SDK Market
+# SDK Marketplace
 
 by [Musab Kara](https://github.com/SkyWalker2506)
 
