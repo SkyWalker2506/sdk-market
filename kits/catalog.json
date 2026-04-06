@@ -35,6 +35,17 @@
       "install": "pub.dev",
       "package": "flutter_tutorial_kit",
       "tags": ["tutorial", "onboarding", "coach-mark", "riverpod"]
+    },
+    {
+      "id": "flutter-gamification-system",
+      "name": "Flutter Gamification System",
+      "description": "Gamification engine for Flutter — XP, levels, streaks, badges, achievements, SRS rating.",
+      "platform": "flutter",
+      "version": "0.1.0",
+      "repo": "https://github.com/SkyWalker2506/flutter_gamification_system",
+      "install": "path",
+      "package": "flutter_gamification_system",
+      "tags": ["gamification", "xp", "levels", "badges", "achievements", "education"]
     }
   ]
 }
