@@ -37,6 +37,17 @@
       "tags": ["tutorial", "onboarding", "coach-mark", "riverpod"]
     },
     {
+      "id": "flutter-notification-kit",
+      "name": "Flutter Notification Kit",
+      "description": "Smart local notifications for Flutter — word-of-the-day, streak reminders, learning-time detection, weekly summary.",
+      "platform": "flutter",
+      "version": "0.1.0",
+      "repo": "https://github.com/SkyWalker2506/flutter_notification_kit",
+      "install": "path",
+      "package": "flutter_notification_kit",
+      "tags": ["notifications", "streak", "education", "riverpod"]
+    },
+    {
       "id": "flutter-offline-sync",
       "name": "Flutter Offline Sync",
       "description": "Generic offline-first bidirectional sync for Flutter — local-wins conflict resolution, Firestore-agnostic abstract interfaces.",
